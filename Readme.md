@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-    <p>Made with ❤️ by the Reddit Monitor Team</p>
+    <p>Made with ❤️ by Safaa Bechchaa</p>
     <p>
         <a href="https://github.com/yourusername/Reddit-Keyword-Monitoring/issues">Report Bug</a> ·
         <a href="https://github.com/yourusername/Reddit-Keyword-Monitoring/issues">Request Feature</a>
